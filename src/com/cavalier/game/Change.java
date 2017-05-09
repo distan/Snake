@@ -1,7 +1,7 @@
 package com.cavalier.game;
 
 /*shep
- * Á´½ÓÊı¾İ¿âĞŞ¸ÄÃÜÂë
+ * é“¾æ¥æ•°æ®åº“ä¿®æ”¹å¯†ç 
  */
 public class Change {
 	boolean flag = false;
